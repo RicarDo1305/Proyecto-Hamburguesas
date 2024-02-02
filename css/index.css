@@ -1,0 +1,286 @@
+@media (min-width:415px) and (max-width:700px){
+    .formularioInicioSesion{
+        width: 70%;
+        height: 60%;
+        border-radius: 5%;
+        margin-top: -30%;
+        background-color: white;
+        top: 0%;
+        left: 50%;
+        position: absolute;
+        transform: translate(-50%, 50%);
+        box-sizing: border-box;
+        padding: 40px 50px;
+        border: 2px solid rgb(9, 58, 135);
+        /*Se puede colocar una imagen de fondo*/
+    }
+  }
+  
+  @media (min-width:150px) and (max-width:240px){
+    .formularioInicioSesion{
+        width: 100%;
+        height: 60%;
+        border-radius: 5%;
+        margin-top: -30%;
+        background-color: white;
+        top: 0%;
+        left: 50%;
+        position: absolute;
+        transform: translate(-50%, 50%);
+        box-sizing: border-box;
+        padding: 1px 1px;
+        border: 2px solid rgb(9, 58, 135);
+        /*Se puede colocar una imagen de fondo*/
+    }
+  }
+  @media (min-width:361px) and (max-width:510px){
+    .formularioInicioSesion{
+        width: 100%;
+        height: 60%;
+        border-radius: 5%;
+        margin-top: -30%;
+        background-color: white;
+        top: 0%;
+        left: 50%;
+        position: absolute;
+        transform: translate(-50%, 50%);
+        box-sizing: border-box;
+        padding: 1px 1px;
+        border: 2px solid rgb(9, 58, 135);
+        /*Se puede colocar una imagen de fondo*/
+    }
+  }
+/*Formato para computadoras y laptop*/
+@media (orientation: Portrait) {
+
+    @media only screen and (min-width:1025px) and (max-width:1500px){
+        .formularioInicioSesion{
+            width: 30%;
+            height: 50%;
+            border-radius: 5%;
+            background-color: white;
+            top: 0%;
+            left: 50%;
+            position: absolute;
+            transform: translate(-50%, 50%);
+            box-sizing: border-box;
+            padding: 30px 10px;
+            border: 2px solid rgb(9, 58, 135);
+            /*Se puede colocar una imagen de fondo*/
+        }
+      }
+      @media only screen and (min-width:854px) and (max-width:899px){
+        .formularioInicioSesion{
+            width: 0%;
+            height: 0%;
+            border-radius: 5%;
+            background-color: white;
+            top: 0%;
+            left: 50%;
+            position: absolute;
+            transform: translate(-50%, 50%);
+            box-sizing: border-box;
+            padding: 10px 10px;
+            border: 2px solid rgb(9, 58, 135);
+            /*Se puede colocar una imagen de fondo*/
+        }
+      }
+  /*iPad Pro (12.9-inch)*/
+  @media (width:1024px) and (height:1366px){
+    .formularioInicioSesion{
+        width: 40%;
+        height: 35%;
+        border-radius: 5%;
+        background-color: white;
+        top: 0%;
+        left: 50%;
+        position: absolute;
+        transform: translate(-50%, 50%);
+        box-sizing: border-box;
+        padding: 40px 50px;
+        border: 2px solid rgb(9, 58, 135);
+        /*Se puede colocar una imagen de fondo*/
+    }
+  }
+/*Formato especial*/
+  @media (width:1024px) and (height:800px){
+    .formularioInicioSesion{
+        width: 40%;
+        height: 60%;
+        border-radius: 5%;
+        background-color: white;
+        top: 0%;
+        left: 50%;
+        position: absolute;
+        transform: translate(-50%, 50%);
+        box-sizing: border-box;
+        padding: 40px 50px;
+        border: 2px solid rgb(9, 58, 135);
+        /*Se puede colocar una imagen de fondo*/
+    }
+  }
+/*Formato para celulares*/
+  @media only screen and (min-width:360px) and (max-width:415px){
+
+    .formularioInicioSesion{
+        width: 80%;
+        height: 60%;
+        margin-top: -50%;
+        border-radius: 5%;
+        background-color: white;
+        top: 0%;
+        left: 50%;
+        position: absolute;
+        transform: translate(-50%, 50%);
+        box-sizing: border-box;
+        padding: 30px 10px;
+        border: 2px solid rgb(9, 58, 135);
+        /*Se puede colocar una imagen de fondo*/
+    }
+  }
+  @media only screen and (min-width:600px) and (max-width:960px){
+    .formularioInicioSesion{
+        width: 60%;
+        height: 45%;
+        margin-top: -10%;
+        border-radius: 5%;
+        background-color: white;
+        top: 0%;
+        left: 50%;
+        position: absolute;
+        transform: translate(-50%, 50%);
+        box-sizing: border-box;
+        padding: 30px 10px;
+        border: 2px solid rgb(9, 58, 135);
+        /*Se puede colocar una imagen de fondo*/
+    }
+  }
+
+  @media only screen and (min-width:320px) and (max-width:360px){
+    .formularioInicioSesion{
+        width: 80%;
+        height: 75%;
+        margin-top: -50%;
+        border-radius: 5%;
+        background-color: white;
+        top: 0%;
+        left: 50%;
+        position: absolute;
+        transform: translate(-50%, 50%);
+        box-sizing: border-box;
+        padding: 30px 10px;
+        border: 2px solid rgb(9, 58, 135);
+        /*Se puede colocar una imagen de fondo*/
+    }
+  }
+
+  @media only screen and (min-width:240px) and (max-width:320px){
+
+    .formularioInicioSesion{
+        width: 100%;
+        height: 120%;
+        margin-top: -85%;
+        border-radius: 5%;
+        background-color: white;
+        top: 0%;
+        left: 50%;
+        position: absolute;
+        transform: translate(-50%, 50%);
+        box-sizing: border-box;
+        padding: 1px 1px;
+        border: 2px solid rgb(9, 58, 135);
+        /*Se puede colocar una imagen de fondo*/
+    }
+  }
+
+} 
+
+@media (orientation: Landscape) {
+
+    @media only screen and (min-width:1024px) and (max-width:1500px){
+        .formularioInicioSesion{
+            width: 30%;
+            height: 50%;
+            border-radius: 5%;
+            background-color: white;
+            top: 0%;
+            left: 50%;
+            position: absolute;
+            transform: translate(-50%, 50%);
+            box-sizing: border-box;
+            padding: 30px 10px;
+            border: 2px solid rgb(9, 58, 135);
+            /*Se puede colocar una imagen de fondo*/
+        }
+      }
+      /*Formato especial*/
+  @media (width:1024px) and (height:800px){
+    .formularioInicioSesion{
+        width: 60%;
+        height: 100%;
+        border-radius: 5%;
+        background-color: white;
+        top: 0%;
+        left: 50%;
+        position: absolute;
+        transform: translate(-50%, 50%);
+        box-sizing: border-box;
+        padding: 40px 50px;
+        border: 2px solid rgb(9, 58, 135);
+        /*Se puede colocar una imagen de fondo*/
+    }
+  }
+  @media only screen and (min-width:640px) and (max-width:899px){
+    .formularioInicioSesion{
+        width: 80%;
+        height: 95%;
+        margin-top: -21%;
+        border-radius: 5%;
+        background-color: white;
+        top: 0%;
+        left: 50%;
+        position: absolute;
+        transform: translate(-50%, 50%);
+        box-sizing: border-box;
+        padding: 10px 5px;
+        border: 2px solid rgb(9, 58, 135);
+        /*Se puede colocar una imagen de fondo*/
+    }
+  }
+
+  @media only screen and (min-width:900px) and (max-width:1031px){
+    .formularioInicioSesion{
+        width: 80%;
+        height: 50%;
+        margin-top: -10%;
+        border-radius: 5%;
+        background-color: white;
+        top: 0%;
+        left: 50%;
+        position: absolute;
+        transform: translate(-50%, 50%);
+        box-sizing: border-box;
+        padding: 10px 5px;
+        border: 2px solid rgb(9, 58, 135);
+        /*Se puede colocar una imagen de fondo*/
+    }
+  }
+  @media only screen and (width:568px){
+    .formularioInicioSesion{
+        width: 90%;
+        height: 105%;
+        margin-top: -30%;
+        border-radius: 5%;
+        background-color: white;
+        top: 0%;
+        left: 50%;
+        position: absolute;
+        transform: translate(-50%, 50%);
+        box-sizing: border-box;
+        padding: 0px 0px;
+        border: 2px solid rgb(9, 58, 135);
+        /*Se puede colocar una imagen de fondo*/
+    }
+  }
+ 
+}

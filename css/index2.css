@@ -1,0 +1,207 @@
+@media (min-width:415px) and (max-width:1024px){
+    .formularioInicioSesion{
+        width: 70%;
+        height: 50%;
+        border-radius: 5%;
+        margin-top: -10%;
+        background-color: white;
+        top: 0%;
+        left: 50%;
+        position: absolute;
+        transform: translate(-50%, 50%);
+        box-sizing: border-box;
+        padding: 40px 50px;
+        border: 2px solid rgb(9, 58, 135);
+        /*Se puede colocar una imagen de fondo*/
+    }
+  }
+  @media (min-width:1025px) and (max-width:1500px){
+    .formularioInicioSesion{
+        width: 40%;
+        height: 50%;
+        border-radius: 5%;
+        margin-top: -10%;
+        background-color: white;
+        top: 0%;
+        left: 50%;
+        position: absolute;
+        transform: translate(-50%, 50%);
+        box-sizing: border-box;
+        padding: 40px 50px;
+        border: 2px solid rgb(9, 58, 135);
+        /*Se puede colocar una imagen de fondo*/
+    }
+  }
+  /*iPad Pro (12.9-inch)*/
+  @media (width:1024px) and (height:1366px){
+    .formularioInicioSesion{
+        width: 40%;
+        height: 32%;
+        border-radius: 5%;
+        background-color: white;
+        top: 0%;
+        left: 50%;
+        position: absolute;
+        transform: translate(-50%, 50%);
+        box-sizing: border-box;
+        padding: 40px 50px;
+        border: 2px solid rgb(9, 58, 135);
+        /*Se puede colocar una imagen de fondo*/
+    }
+  }
+  @media (min-width:179px) and (max-width:414px){
+    .formularioInicioSesion{
+        width: 80%;
+        height: 50%;
+        border-radius: 5%;
+        margin-top: -10%;
+        background-color: white;
+        top: 0%;
+        left: 50%;
+        position: absolute;
+        transform: translate(-50%, 50%);
+        box-sizing: border-box;
+        padding: 5px 5px;
+        border: 2px solid rgb(9, 58, 135);
+        /*Se puede colocar una imagen de fondo*/
+    }
+  }
+  @media (min-width:320px) and (max-width:376px){
+    .formularioInicioSesion{
+        width: 70%;
+        height: 70%;
+        border-radius: 5%;
+        margin-top: -40%;
+        background-color: white;
+        top: 0%;
+        left: 50%;
+        position: absolute;
+        transform: translate(-50%, 50%);
+        box-sizing: border-box;
+        padding: 10px 10px;
+        border: 2px solid rgb(9, 58, 135);
+        /*Se puede colocar una imagen de fondo*/
+    }
+  }
+  @media (min-width:150px) and (max-width:178px){
+    .formularioInicioSesion{
+        width: 100%;
+        height: 50%;
+        border-radius: 5%;
+        margin-top: -10%;
+        background-color: white;
+        top: 0%;
+        left: 50%;
+        position: absolute;
+        transform: translate(-50%, 50%);
+        box-sizing: border-box;
+        padding: 5px 5px;
+        border: 2px solid rgb(9, 58, 135);
+        /*Se puede colocar una imagen de fondo*/
+    }
+  }
+  @media (min-width:800px) and (max-width:900px){
+    .formularioInicioSesion{
+        width: 60%;
+        height: 40%;
+        border-radius: 5%;
+        margin-top: -10%;
+        background-color: white;
+        top: 0%;
+        left: 50%;
+        position: absolute;
+        transform: translate(-50%, 50%);
+        box-sizing: border-box;
+        padding: 5px 5px;
+        border: 2px solid rgb(9, 58, 135);
+        /*Se puede colocar una imagen de fondo*/
+    }
+  }
+
+@media (orientation: Landscape) {
+    @media (min-width:500px) and (max-width:850px){
+        .formularioInicioSesion{
+            width: 60%;
+            height: 93%;
+            border-radius: 5%;
+            margin-top: -22%;
+            background-color: white;
+            top: 0%;
+            left: 50%;
+            position: absolute;
+            transform: translate(-50%, 50%);
+            box-sizing: border-box;
+            padding: 5px 5px;
+            border: 2px solid rgb(9, 58, 135);
+            /*Se puede colocar una imagen de fondo*/
+        }
+      } 
+      @media (min-width:851px) and (max-width:896px){
+        .formularioInicioSesion{
+            width: 60%;
+            height: 90%;
+            border-radius: 5%;
+            margin-top: -20%;
+            background-color: white;
+            top: 0%;
+            left: 50%;
+            position: absolute;
+            transform: translate(-50%, 50%);
+            box-sizing: border-box;
+            padding: 5px 5px;
+            border: 2px solid rgb(9, 58, 135);
+            /*Se puede colocar una imagen de fondo*/
+        }
+      }
+      @media (width:960px){
+        .formularioInicioSesion{
+            width: 80%;
+            height: 60%;
+            border-radius: 5%;
+            margin-top: -10%;
+            background-color: white;
+            top: 0%;
+            left: 50%;
+            position: absolute;
+            transform: translate(-50%, 50%);
+            box-sizing: border-box;
+            padding: 5px 5px;
+            border: 2px solid rgb(9, 58, 135);
+            /*Se puede colocar una imagen de fondo*/
+        }
+      }  
+      @media (width:1031px) and (height:688px){
+        .formularioInicioSesion{
+            width: 100%;
+            height: 150%;
+            border-radius: 5%;
+            margin-top: -10%;
+            background-color: white;
+            top: 0%;
+            left: 50%;
+            position: absolute;
+            transform: translate(-50%, 50%);
+            box-sizing: border-box;
+            padding: 5px 5px;
+            border: 2px solid rgb(9, 58, 135);
+            /*Se puede colocar una imagen de fondo*/
+        }
+      }
+      @media (height:320px){
+        .formularioInicioSesion{
+            width: 100%;
+            height: 105%;
+            border-radius: 5%;
+            margin-top: -30%;
+            background-color: white;
+            top: 0%;
+            left: 50%;
+            position: absolute;
+            transform: translate(-50%, 50%);
+            box-sizing: border-box;
+            padding: 1px 1px;
+            border: 2px solid rgb(9, 58, 135);
+            /*Se puede colocar una imagen de fondo*/
+        }
+      }
+}

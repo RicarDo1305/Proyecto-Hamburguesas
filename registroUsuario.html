@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="shortcut icon" href="css/imagenes/a2.png">
+    <title>FRAML</title>
+</head>
+<body style="background-color: #fdfd96;">
+    
+    <form id="formulario" method="POST" class="row g-3 border border-primary border-2 rounded-3 position-absolute top-0 start-50 translate-middle-x mt-3 p-2 shadow p-1 rounded w-50 bg-success text-white border border-4 border-warning">
+      <center><img src="css/imagenes/logo.png" style= "height:15rem" class="img-fluid"></center>  
+      <h1>Registro de Usuarios</h1>
+        <div class="col-md-6">
+          <label for="numeroTelefono" class="form-label fw-semibold">Numero de telefono</label>
+          <input type="text" name="numeroTelefono" class="form-control border-dark" id="numeroTelefono">
+        </div>
+        <div class="col-md-6">
+          <label for="contrasena" class="form-label fw-semibold">Contraseña</label>
+          <input type="password" name="contrasena" class="form-control border-dark" id="contrasena">
+        </div>
+        <div class="col-12">
+          <label for="direccion" class="form-label fw-semibold">Dirección</label>
+          <input type="text" name="direccion" class="form-control fw-lighter border-dark" id="direccion" placeholder="ej. Av Avasolo esquina con bravo No. 10">
+        </div>
+        <div class="col-12">
+          <label for="referencias" class="form-label fw-semibold">Referencias</label>
+          <input type="text" name="referencias" class="form-control fw-lighter border-dark" id="referencias" placeholder="ej. En frente Frente a Soriana">
+        </div>
+        <div class="col-md-6">
+          <label for="nombre" class="form-label fw-semibold">Nombre</label>
+          <input type="text" name="nombre" class="form-control border-dark" id="nombre">
+        </div>
+        <div class="col-md-6">
+          <label for="" class="form-label fw-semibold">Apellidos</label>
+          <input type="text" name="apellidos" class="form-control border-dark w-100" id="apellidos">
+        </div>
+        <div class="col-12">
+          <div class="form-check">
+            <input class="form-check-input" type="checkbox" id="gridCheck">
+            <label class="form-check-label" for="gridCheck">
+              Check me out
+            </label>
+          </div>
+        </div>
+        <div class="col-12">
+            <button type="submit" class="btn btn-danger">Entrar</button>
+        </div>
+      </form>
+</body>
+<script src="Helper2.js"></script>
+</html>
